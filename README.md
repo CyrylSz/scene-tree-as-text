@@ -1,7 +1,7 @@
 # Scene Tree As Text
 
 ## Introduction
-A Godot 4.4 EditorPlugin that generates a text representation of your scene trees, optionally including changes made in the Inspector. It's perfect for documenting scenes, debugging, or getting more effective help from AI models.
+This Godot 4.4 EditorPlugin generates a text representation of your scene trees, optionally including changes made in the Inspector. It's perfect for documenting scenes, debugging, or getting more effective help from AI models.
 
 ![Example](/visuals/1.png)
 

@@ -3,7 +3,7 @@
 ## Introduction
 A Godot 4.4 EditorPlugin that generates a text representation of your scene trees, optionally including changes made in the Inspector. It's perfect for documenting scenes, debugging, or getting more effective help from AI models.
 
-![Example](gifs/1.png)
+![Example](/gifs/1.png)
 
 ## Usage
 1. Open your Godot project with the plugin enabled.
@@ -16,7 +16,7 @@ A Godot 4.4 EditorPlugin that generates a text representation of your scene tree
    - Optionally enable "Include info about Inspector changes".
 4. Click "Generate output.txt" to create the output file in your project’s root directory (`res://output.txt`).
 
-![Generate Scene Trees...](gifs/2.png)
+![Generate Scene Trees...](/gifs/2.png)
 
 
 ## Installation
